@@ -9,7 +9,10 @@ PDFs property of Hunter College
 to compile 
 g++ *.cpp -o analyze
 
-
+format of command:
+	(name of program) (type of file) (input file) (output file)
+			    dna or rna
+	
 To analyze DNA string, type the following into terminal:
 
 	./analyze dna MyDnaFile.txt output.txt
